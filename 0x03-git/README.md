@@ -1,1 +1,1 @@
-git is annoying
+git is annoying but needed
